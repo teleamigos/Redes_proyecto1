@@ -1,2 +1,2 @@
-# Redes_proyecto1
-Primer proyecto de redes 
+# proyectoredes_2
+Proyecto No.2 de redes de telecomunicaciones
